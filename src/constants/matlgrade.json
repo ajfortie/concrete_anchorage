@@ -1,0 +1,18 @@
+{
+    "AWS D1.1 Gr.B":{
+        "Yield": 51,
+        "Ult": 65
+    },
+    "ASTM F1554 Gr. 36": {
+        "Yield": 36,
+        "Ult": 58
+    },
+    "ASTM F1554 Gr. 55": {
+        "Yield": 55,
+        "Ult": 75
+    },
+    "ASTM F1554 Gr. 105": {
+        "Yield": 105,
+        "Ult": 125
+    }
+}

@@ -1,0 +1,542 @@
+{
+    "1/2in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 0.5000,
+        "Nominal Area": 0.1963,
+        "Stress Area": 0.1419,
+        "Square": 0.4640,
+        "Heavy Square": 0.5690,
+        "Hex": 0.2910,
+        "Heavy Hex": 0.4670
+    },
+    "5/8in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 0.6250,
+        "Nominal Area": 0.3068,
+        "Stress Area": 0.2260,
+        "Square": 0.6930,
+        "Heavy Square": 0.8220,
+        "Hex": 0.4540,
+        "Heavy Hex": 0.6710
+    },
+    "3/4in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 0.7500,
+        "Nominal Area": 0.4418,
+        "Stress Area": 0.3340,
+        "Square": 0.8240,
+        "Heavy Square": 1.1210,
+        "Hex": 0.6540,
+        "Heavy Hex": 0.9110
+    },
+    "7/8in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 0.8750,
+        "Nominal Area": 0.6013,
+        "Stress Area": 0.4620,
+        "Square": 1.1210,
+        "Heavy Square": 1.4650,
+        "Hex": 0.8910,
+        "Heavy Hex": 1.1880
+    },
+    "1in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 1.0000,
+        "Nominal Area": 0.7854,
+        "Stress Area": 0.6060,
+        "Square": 1.4650,
+        "Heavy Square": 1.8550,
+        "Hex": 1.1630,
+        "Heavy Hex": 1.5010
+    },
+    "1-1/8in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 1.1250,
+        "Nominal Area": 0.9940,
+        "Stress Area": 0.7630,
+        "Square": 1.8540,
+        "Heavy Square": 2.2910,
+        "Hex": 1.4720,
+        "Heavy Hex": 1.8510
+    },
+    "1-1/4in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 1.2500,
+        "Nominal Area": 1.2272,
+        "Stress Area": 0.9690,
+        "Square": 2.2280,
+        "Heavy Square": 2.7730,
+        "Hex": 1.8170,
+        "Heavy Hex": 2.2370
+    },
+    "1-1/2in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 1.5000,
+        "Nominal Area": 1.7671,
+        "Stress Area": 1.4050,
+        "Square": 3.2950,
+        "Heavy Square": 3.8730,
+        "Hex": 2.6170,
+        "Heavy Hex": 3.1180
+    },
+    "1-3/4in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 1.7500,
+        "Nominal Area": 2.4053,
+        "Stress Area": 1.9000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 3.4400,
+        "Heavy Hex": 4.1440
+    },
+    "2in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 2.0000,
+        "Nominal Area": 3.1416,
+        "Stress Area": 2.5000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 4.6530,
+        "Heavy Hex": 5.3160
+    },
+    "2-1/4in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 2.2500,
+        "Nominal Area": 3.9761,
+        "Stress Area": 3.2500,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 5.7770,
+        "Heavy Hex": 6.6330
+    },
+    "2-1/2in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 2.5000,
+        "Nominal Area": 4.9087,
+        "Stress Area": 4.0000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 7.1710,
+        "Heavy Hex": 8.2440
+    },
+    "2-3/4in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 2.7500,
+        "Nominal Area": 5.9396,
+        "Stress Area": 4.9300,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 8.7150,
+        "Heavy Hex": 9.7030
+    },
+    "3in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 3.0000,
+        "Nominal Area": 7.0686,
+        "Stress Area": 5.9700,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 10.4100,
+        "Heavy Hex": 11.4560
+    },
+    "3-1/4in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 3.2500,
+        "Nominal Area": 8.2958,
+        "Stress Area": 7.1000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 12.2550,
+        "Heavy Hex": "N/A"
+    },
+    "3-1/2in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 3.5000,
+        "Nominal Area": 9.6211,
+        "Stress Area": 8.3300,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 14.2510,
+        "Heavy Hex": "N/A"
+    },
+    "3-3/4in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 3.7500,
+        "Nominal Area": 11.0447,
+        "Stress Area": 9.6600,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 16.3980,
+        "Heavy Hex": "N/A"
+    },
+    "4in A.B., GR 36": {
+        "Material": "ASTM F1554 Gr. 36",
+        "Nominal Dia.": 4.0000,
+        "Nominal Area": 12.5664,
+        "Stress Area": 11.0800,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 18.6110,
+        "Heavy Hex": "N/A"
+    },
+    "1/2in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 0.5000,
+        "Nominal Area": 0.1963,
+        "Stress Area": 0.1419,
+        "Square": 0.4640,
+        "Heavy Square": 0.5690,
+        "Hex": 0.2910,
+        "Heavy Hex": 0.4670
+    },
+    "5/8in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 0.6250,
+        "Nominal Area": 0.3068,
+        "Stress Area": 0.2260,
+        "Square": 0.6930,
+        "Heavy Square": 0.8220,
+        "Hex": 0.4540,
+        "Heavy Hex": 0.6710
+    },
+    "3/4in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 0.7500,
+        "Nominal Area": 0.4418,
+        "Stress Area": 0.3340,
+        "Square": 0.8240,
+        "Heavy Square": 1.1210,
+        "Hex": 0.6540,
+        "Heavy Hex": 0.9110
+    },
+    "7/8in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 0.8750,
+        "Nominal Area": 0.6013,
+        "Stress Area": 0.4620,
+        "Square": 1.1210,
+        "Heavy Square": 1.4650,
+        "Hex": 0.8910,
+        "Heavy Hex": 1.1880
+    },
+    "1in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 1.0000,
+        "Nominal Area": 0.7854,
+        "Stress Area": 0.6060,
+        "Square": 1.4650,
+        "Heavy Square": 1.8550,
+        "Hex": 1.1630,
+        "Heavy Hex": 1.5010
+    },
+    "1-1/8in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 1.1250,
+        "Nominal Area": 0.9940,
+        "Stress Area": 0.7630,
+        "Square": 1.8540,
+        "Heavy Square": 2.2910,
+        "Hex": 1.4720,
+        "Heavy Hex": 1.8510
+    },
+    "1-1/4in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 1.2500,
+        "Nominal Area": 1.2272,
+        "Stress Area": 0.9690,
+        "Square": 2.2280,
+        "Heavy Square": 2.7730,
+        "Hex": 1.8170,
+        "Heavy Hex": 2.2370
+    },
+    "1-1/2in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 1.5000,
+        "Nominal Area": 1.7671,
+        "Stress Area": 1.4050,
+        "Square": 3.2950,
+        "Heavy Square": 3.8730,
+        "Hex": 2.6170,
+        "Heavy Hex": 3.1180
+    },
+    "1-3/4in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 1.7500,
+        "Nominal Area": 2.4053,
+        "Stress Area": 1.9000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 3.4400,
+        "Heavy Hex": 4.1440
+    },
+    "2in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 2.0000,
+        "Nominal Area": 3.1416,
+        "Stress Area": 2.5000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 4.6530,
+        "Heavy Hex": 5.3160
+    },
+    "2-1/4in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 2.2500,
+        "Nominal Area": 3.9761,
+        "Stress Area": 3.2500,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 5.7770,
+        "Heavy Hex": 6.6330
+    },
+    "2-1/2in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 2.5000,
+        "Nominal Area": 4.9087,
+        "Stress Area": 4.0000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 7.1710,
+        "Heavy Hex": 8.2440
+    },
+    "2-3/4in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 2.7500,
+        "Nominal Area": 5.9396,
+        "Stress Area": 4.9300,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 8.7150,
+        "Heavy Hex": 9.7030
+    },
+    "3in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 3.0000,
+        "Nominal Area": 7.0686,
+        "Stress Area": 5.9700,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 10.4100,
+        "Heavy Hex": 11.4560
+    },
+    "3-1/4in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 3.2500,
+        "Nominal Area": 8.2958,
+        "Stress Area": 7.1000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 12.2550,
+        "Heavy Hex": "N/A"
+    },
+    "3-1/2in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 3.5000,
+        "Nominal Area": 9.6211,
+        "Stress Area": 8.3300,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 14.2510,
+        "Heavy Hex": "N/A"
+    },
+    "3-3/4in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 3.7500,
+        "Nominal Area": 11.0447,
+        "Stress Area": 9.6600,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 16.3980,
+        "Heavy Hex": "N/A"
+    },
+    "4in A.B., GR 55": {
+        "Material": "ASTM F1554 Gr. 55",
+        "Nominal Dia.": 4.0000,
+        "Nominal Area": 12.5664,
+        "Stress Area": 11.0800,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 18.6110,
+        "Heavy Hex": "N/A"
+    },
+    "1/2in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 0.5000,
+        "Nominal Area": 0.1963,
+        "Stress Area": 0.1419,
+        "Square": 0.4640,
+        "Heavy Square": 0.5690,
+        "Hex": 0.2910,
+        "Heavy Hex": 0.4670
+    },
+    "5/8in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 0.6250,
+        "Nominal Area": 0.3068,
+        "Stress Area": 0.2260,
+        "Square": 0.6930,
+        "Heavy Square": 0.8220,
+        "Hex": 0.4540,
+        "Heavy Hex": 0.6710
+    },
+    "3/4in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 0.7500,
+        "Nominal Area": 0.4418,
+        "Stress Area": 0.3340,
+        "Square": 0.8240,
+        "Heavy Square": 1.1210,
+        "Hex": 0.6540,
+        "Heavy Hex": 0.9110
+    },
+    "7/8in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 0.8750,
+        "Nominal Area": 0.6013,
+        "Stress Area": 0.4620,
+        "Square": 1.1210,
+        "Heavy Square": 1.4650,
+        "Hex": 0.8910,
+        "Heavy Hex": 1.1880
+    },
+    "1in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 1.0000,
+        "Nominal Area": 0.7854,
+        "Stress Area": 0.6060,
+        "Square": 1.4650,
+        "Heavy Square": 1.8550,
+        "Hex": 1.1630,
+        "Heavy Hex": 1.5010
+    },
+    "1-1/8in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 1.1250,
+        "Nominal Area": 0.9940,
+        "Stress Area": 0.7630,
+        "Square": 1.8540,
+        "Heavy Square": 2.2910,
+        "Hex": 1.4720,
+        "Heavy Hex": 1.8510
+    },
+    "1-1/4in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 1.2500,
+        "Nominal Area": 1.2272,
+        "Stress Area": 0.9690,
+        "Square": 2.2280,
+        "Heavy Square": 2.7730,
+        "Hex": 1.8170,
+        "Heavy Hex": 2.2370
+    },
+    "1-1/2in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 1.5000,
+        "Nominal Area": 1.7671,
+        "Stress Area": 1.4050,
+        "Square": 3.2950,
+        "Heavy Square": 3.8730,
+        "Hex": 2.6170,
+        "Heavy Hex": 3.1180
+    },
+    "1-3/4in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 1.7500,
+        "Nominal Area": 2.4053,
+        "Stress Area": 1.9000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 3.4400,
+        "Heavy Hex": 4.1440
+    },
+    "2in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 2.0000,
+        "Nominal Area": 3.1416,
+        "Stress Area": 2.5000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 4.6530,
+        "Heavy Hex": 5.3160
+    },
+    "2-1/4in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 2.2500,
+        "Nominal Area": 3.9761,
+        "Stress Area": 3.2500,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 5.7770,
+        "Heavy Hex": 6.6330
+    },
+    "2-1/2in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 2.5000,
+        "Nominal Area": 4.9087,
+        "Stress Area": 4.0000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 7.1710,
+        "Heavy Hex": 8.2440
+    },
+    "2-3/4in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 2.7500,
+        "Nominal Area": 5.9396,
+        "Stress Area": 4.9300,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 8.7150,
+        "Heavy Hex": 9.7030
+    },
+    "3in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 3.0000,
+        "Nominal Area": 7.0686,
+        "Stress Area": 5.9700,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 10.4100,
+        "Heavy Hex": 11.4560
+    },
+    "3-1/4in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 3.2500,
+        "Nominal Area": 8.2958,
+        "Stress Area": 7.1000,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 12.2550,
+        "Heavy Hex": "N/A"
+    },
+    "3-1/2in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 3.5000,
+        "Nominal Area": 9.6211,
+        "Stress Area": 8.3300,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 14.2510,
+        "Heavy Hex": "N/A"
+    },
+    "3-3/4in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 3.7500,
+        "Nominal Area": 11.0447,
+        "Stress Area": 9.6600,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 16.3980,
+        "Heavy Hex": "N/A"
+    },
+    "4in A.B., GR 105": {
+        "Material": "ASTM F1554 Gr. 105",
+        "Nominal Dia.": 4.0000,
+        "Nominal Area": 12.5664,
+        "Stress Area": 11.0800,
+        "Square": "N/A",
+        "Heavy Square": "N/A",
+        "Hex": 18.6110,
+        "Heavy Hex": "N/A"
+    }
+}
